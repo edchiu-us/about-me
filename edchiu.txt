@@ -1,3 +1,5 @@
- red
+lab time 
+red
 hello
+copy right
 added this line first
