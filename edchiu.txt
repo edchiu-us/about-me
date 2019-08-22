@@ -1,2 +1,3 @@
- hello
+ red
+hello
 added this line first
